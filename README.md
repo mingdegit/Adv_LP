@@ -3,10 +3,12 @@
 
 # Requirements
 python >= 3.6
+
 PyTorch == 1.4.0
 
 # YOLOv3 Model
 [链接](https://pan.baidu.com/s/1hkwJUrI6CSrwdNauo_vYpA)  密码: uceq
+
 该模型用于车牌裁剪。
 
 # References
